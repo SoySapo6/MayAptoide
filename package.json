@@ -21,7 +21,7 @@
     "dependencies": {
         "cheerio": "^1.0.0-rc.10",
         "axios": "^1.2.2",
-        "file_size_url": "^1.0.4",
+        "file_size_url": "1.0.4",
         "node-fetch": "^3.3.0"
     },
     "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
