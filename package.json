@@ -1,5 +1,5 @@
 {
-    "name": "aptoide-scraper",
+    "name": "MayAptoide",
     "version": "1.0.1",
     "description": "Search and get apk from aptoide.",
     "main": "app.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vihangayt0/Aptoide-Scraper.git"
+        "url": "git+https://github.com/SoySapo6/MayAptoide.git"
     },
     "keywords": [
         "Apkdl",
@@ -24,11 +24,11 @@
         "file_size_url": "1.0.4",
         "node-fetch": "^3.3.0"
     },
-    "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
-    "npm_publisher": "VihangaYT",
+    "author": "SoyMaycol",
+    "npm_publisher": "SoyMaycol",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/vihangayt0/Aptoide-Scraper/issues"
+        "url": "https://github.com/SoySapo6/MayAptoide/issues"
     },
     "homepage": "https://github.com/vihangayt0/Aptoide-Scraper#readme"
 }
